@@ -112,3 +112,5 @@ D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\
 D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Project.cshtml.g.cs
 D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_Articles.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
