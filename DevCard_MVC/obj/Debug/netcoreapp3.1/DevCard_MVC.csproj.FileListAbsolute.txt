@@ -110,3 +110,5 @@ D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\
 D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Project.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_Articles.cshtml.g.cs
