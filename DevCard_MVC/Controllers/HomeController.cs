@@ -1,6 +1,7 @@
 ﻿using DevCard_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Http;
 
 namespace DevCard_MVC.Controllers
 {
@@ -19,7 +20,25 @@ namespace DevCard_MVC.Controllers
 
         public ActionResult Contact()
         {
-            return View();
+            var model = new Contact();
+            return View(model);
+        }
+
+
+        //// this is Iform collection
+        //[HttpPost]
+        //public JsonResult Contact(IFormCollection form)
+        //{
+        //    var name = form["name"];
+        //    return Json(Ok());
+        //}
+
+
+        // this operation is relate to model binding **********
+        [HttpPost]
+        public JsonResult Contact(Contact form)
+        {
+            return Json(Ok());
         }
 
 
